@@ -2,7 +2,10 @@
     "latest_version": "1.0.0",
     "author": "S4VAGEE DESIGNS",
     "changelog": [
-        "- Entry Gate Arrangement"
+        "- Fix entry collision",
+        "- Fixed the way paths are uploaded",
+        "- Fixing bugs on the floor and stairs of the business",
+        "- Benches were added for the tables at the entrance"
     ],
     "Keymaster": "Download The New Version Here!! https://keymaster.fivem.net/asset-grants"
 }
