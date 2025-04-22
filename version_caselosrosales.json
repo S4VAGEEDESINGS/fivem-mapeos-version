@@ -1,11 +1,8 @@
 {
-    "latest_version": "1.0.2",
+    "latest_version": "1.0.3",
     "author": "S4VAGEE DESIGNS",
     "changelog": [
-        "- Fix entry collision",
-        "- Fixed the way paths are uploaded",
-        "- Fixing bugs on the floor and stairs of the business",
-        "- Benches were added for the tables at the entrance"
+        "- Fixed some collision issues when shooting"
     ],
     "Keymaster": "Download The New Version Here!! https://keymaster.fivem.net/asset-grants"
 }
